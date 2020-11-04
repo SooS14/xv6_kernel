@@ -1,8 +1,22 @@
+
+
+Open source kernel used to understand what are the basic mecanisms of an operating system 
+	-> used as an example for the academic subject : designing an operating system 
+		-> lessons given by : Pierre David : https://www.researchgate.net/profile/Pierre_David2
+
+
+-> this is my modified version of xv6. the original version can be found here : https://github.com/mit-pdos/xv6-public
+
+
+##########################################################################
+
+beginning of the original README :
+
+
 NOTE: we have stopped maintaining the x86 version of xv6, and switched
 our efforts to the RISC-V version
 (https://github.com/mit-pdos/xv6-riscv.git)
 
-pooooooooooooooooooooooooooooooooooooooot
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
 Version 6 (v6).  xv6 loosely follows the structure and style of v6,
 but is implemented for a modern x86-based multiprocessor using ANSI C.
